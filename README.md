@@ -19,7 +19,6 @@ Praticar a criação de páginas estáticas utilizando HTML, com foco em:
 - Seções organizadas (informações, bio, conteúdos)
 - Layout estático sem uso de frameworks ou JavaScript
 
-## 🚀 Como visualizar o projeto
-Basta clonar o repositório e abrir o arquivo `index.html` no navegador.
+
 
 
